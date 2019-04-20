@@ -1,0 +1,12 @@
+<div class="employees-display">
+  <div style="text-align:center" (click)="onClick()">
+    <h1>Welcome to Employees list!</h1>
+    <img width="300" alt="panda employee" src="/src/assets/employees.jpg">
+    <h2>Employees names</h2>
+    <ul>
+      <li *ngFor="let employ of employees">
+        {{employ['employee_name']}}
+      </li>
+    </ul>
+  </div>
+</div>

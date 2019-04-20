@@ -1,0 +1,9 @@
+.employees-display {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+}
+
+li {
+  list-style: none;
+}
