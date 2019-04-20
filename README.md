@@ -3,6 +3,9 @@
 Angular-cli version 6.1.4.
 Rxjs version 6.3.3
 
+# Description
+simple use case of Rxjs switchMap to manage HTTP request based on interval and manual trigger.
+
 
 ## Development server
 
