@@ -1,6 +1,8 @@
-# HttpPullExample
+# http-responsive-pull example
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.4.
+Angular-cli version 6.1.4.
+Rxjs version 6.3.3
+
 
 ## Development server
 
